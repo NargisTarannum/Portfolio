@@ -7,20 +7,20 @@ const projects = [
   {
     title: "Social Services Management Platform",
     description:
-      "Enterprise-grade social services platform with real-time data dashboards, case management, and role-based access control.",
+      "Enterprise-grade social services platform with real-time data dashboards, case management, and role-based access control. Projects are :- MAP-UI, Parent-Finder, Child Badge",
     tags: ["React 18", "Tailwind CSS"],
   },
   {
     title: "Fintech Customer Dashboard",
     description:
-      "Interactive financial dashboard serving 100K+ users with transaction tracking, analytics charts, and secure payment integrations.",
+      "Interactive financial dashboard serving 100K+ users with transaction tracking, analytics charts, and secure payment integrations. Projects are :- PayMe App, E-KYC verification system, Gold Loan management dashboard ",
     tags: ["React.js", "Redux", "REST APIs", "Chart.js"],
   },
   {
     title: "Reusable Component Library",
     description:
-      "Custom design system with 50+ accessible, fully documented components built with Storybook, reducing team development time by 35%.",
-    tags: ["React", "Storybook", "Styled Components"],
+      "Custom design system with 50+ accessible, fully documented components, reducing team development time by 35%. Projects are :- Threadsol app, Threadsol Dashboard",
+    tags: ["React", "Semantic UI", "Redux Thunk","Styled Components"],
   },
   {
     title: "Supply Chain Management App",

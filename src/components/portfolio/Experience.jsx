@@ -5,8 +5,8 @@ const experiences = [
     period: "April 2024 – Jun 2025",
     location: "Remote, India",
     points: [
-      "Led development of an enterprise-grade social services platform using React 18, TypeScript, and Zustand, achieving 40% improvement in page load speed.",
-      "Designed and implemented a custom component library with Storybook documentation, reducing development time by 35%.",
+      "Led development of an enterprise-grade social services platform using React 18 and Redux toolkit achieving 40% improvement in page load speed.",
+      "Designed and implemented a custom component library, reducing development time by 35%.",
       "Integrated RESTful APIs and implemented advanced caching strategies, reducing redundant API calls by 50%.",
       "Mentored a team of 4 junior developers, conducting code reviews and pair programming sessions.",
     ],
